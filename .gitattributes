@@ -1,0 +1,4 @@
+DNN-based_Metamodel/preprocessed/preprocessed_var/csv filter=lfs diff=lfs merge=lfs -text
+DNN-based_Metamodel/preprocessed/preprocessed_var.csv filter=lfs diff=lfs merge=lfs -text
+DNN-based_Metamodel/preprocessed/preprocessed_p.csv filter=lfs diff=lfs merge=lfs -text
+DNN-based_Metamodel/preprocessed/preprocessed_q.csv filter=lfs diff=lfs merge=lfs -text

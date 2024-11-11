@@ -1,0 +1,10 @@
+<edges >
+    <edge id="1I" priority="-1" to="J0" from="J1" numLanes="5"/>
+    <edge id="1O" priority="-1" to="J1" from="J0" numLanes="5"/>
+    <edge id="2I" priority="-1" to="J0" from="J2" numLanes="5"/>
+    <edge id="2O" priority="-1" to="J2" from="J0" numLanes="3"/>
+    <edge id="3I" priority="-1" to="J0" from="J3" numLanes="5"/>
+    <edge id="3O" priority="-1" to="J3" from="J0" numLanes="5"/>
+    <edge id="4I" priority="-1" to="J0" from="J4" numLanes="3"/>
+    <edge id="4O" priority="-1" to="J4" from="J0" numLanes="5"/>
+</edges>
