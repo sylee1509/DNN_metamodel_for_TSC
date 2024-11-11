@@ -1,0 +1,22 @@
+<connections >
+    <connection from="1I" fromLane="0" to="4O" toLane="0" contPos="0"/>
+    <connection from="1I" fromLane="1" to="4O" toLane="1" contPos="0"/>
+    <connection from="1I" fromLane="2" to="3O" toLane="2" contPos="0"/>
+    <connection from="1I" fromLane="3" to="3O" toLane="3" contPos="0"/>
+    <connection from="1I" fromLane="4" to="3O" toLane="4" contPos="0"/>
+    <connection from="1I" fromLane="5" to="2O" toLane="2" contPos="0"/>
+    <connection from="1I" fromLane="6" to="2O" toLane="3" contPos="0"/>
+    <connection from="2I" fromLane="0" to="1O" toLane="0" contPos="0"/>
+    <connection from="2I" fromLane="1" to="4O" toLane="1" contPos="0"/>
+    <connection from="2I" fromLane="2" to="4O" toLane="2" contPos="0"/>
+    <connection from="2I" fromLane="3" to="3O" toLane="6" contPos="0"/>
+    <connection from="3I" fromLane="0" to="2O" toLane="0" contPos="0"/>
+    <connection from="3I" fromLane="1" to="1O" toLane="1" contPos="0"/>
+    <connection from="3I" fromLane="2" to="4O" toLane="1" contPos="0"/>
+    <connection from="3I" fromLane="3" to="4O" toLane="2" contPos="0"/>
+    <connection from="3I" fromLane="4" to="4O" toLane="3" contPos="0"/>
+    <connection from="4I" fromLane="0" to="3O" toLane="0" contPos="0"/>
+    <connection from="4I" fromLane="1" to="2O" toLane="1" contPos="0"/>
+    <connection from="4I" fromLane="2" to="1O" toLane="3" contPos="0"/>
+    <connection from="4I" fromLane="3" to="1O" toLane="4" contPos="0"/>
+</connections>

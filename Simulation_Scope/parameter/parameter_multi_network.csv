@@ -1,0 +1,2 @@
+target,scenario,warmup,stoptime,interval,replication,seed,runType,testPattern,nowarning,nogui,durationLog,stepLog,w1,w2,w3,w4,w5,historyLength,lr,beta1,beta2,epsilon,adam_improvement,adam_split_target,adam_offset_target,maxsize,maxtrainstep,tabu_improvement,tabu_split_target,tabu_offset_target,nonstationary,iteration
+multi,0,600,1800,1200,5,0,multi,0,TRUE,TRUE,TRUE,TRUE,1,0,0,0,0,500,3,0.4,0.9,1.00E-08,10,TRUE,FALSE,5,50,10,TRUE,FALSE,FALSE,1

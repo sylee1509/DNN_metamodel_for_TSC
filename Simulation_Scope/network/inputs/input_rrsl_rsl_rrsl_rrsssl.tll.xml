@@ -1,0 +1,12 @@
+<tlLogics >
+    <tlLogic id="J0" programID="0" type="static">
+        <phase state="rrrGGrrrrrGGGrrrr" duration="15"/>
+        <phase state="rrrYYrrrrrYYYrrrr" duration="3"/>
+        <phase state="GGGrrrrGGGrrrrrrr" duration="15"/>
+        <phase state="GGYrrrrGGYrrrrrrr" duration="3"/>
+        <phase state="GGrrrrGGGrrrrrrrG" duration="15"/>
+        <phase state="YYrrrrYYYrrrrrrrY" duration="3"/>
+        <phase state="rrrrGGrrrrrGGGGGr" duration="15"/>
+        <phase state="rrrrGYrrrrrGGYYYr" duration="3"/>
+    </tlLogic>
+</tlLogics>
