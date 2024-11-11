@@ -14,10 +14,10 @@ The proposed simulation-optimization framework consists of five key steps:
 
 The framework is designed to be computationally efficient while maintaining high accuracy in both prediction and optimization. Its performance is robust across different road networks and traffic demands. Below is a visual summary of the framework:
 
-<p align="center">
+<div align="center">
   <img src="figures/proposed_framework.png" alt="Framework Diagram" width="500"/>
-  <figcaption style="text-align: center;"><strong>Figure 1:</strong> The framework flowchart illustrating the simulation-optimization process using a DNN-based metamodel.</figcaption>
-</p>
+  <figcaption><strong>Figure 1:</strong> The framework flowchart illustrating the simulation-optimization process using a DNN-based metamodel.</figcaption>
+</div>
 
 ## Requirements
 To run the code, you will need:
