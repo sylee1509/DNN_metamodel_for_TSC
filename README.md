@@ -16,8 +16,7 @@ The framework is designed to be computationally efficient while maintaining high
 
 <p align="center">
   <img src="figures/proposed_framework.png" alt="Framework Diagram" width="500"/>
-  <br />
-  <figcaption><strong>Figure 1:</strong> The framework flowchart illustrating the simulation-optimization process using a DNN-based metamodel..</figcaption>
+  <figcaption style="text-align: center;"><strong>Figure 1:</strong> The framework flowchart illustrating the simulation-optimization process using a DNN-based metamodel.</figcaption>
 </p>
 
 ## Requirements
