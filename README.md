@@ -2,7 +2,7 @@
 
 
 ## Overview
-This repository contains the source code for the simulation-optimization framework proposed in the paper **"A Simulation Optimization Framework for Traffic Signal Control Problem Using a DNN-based Metamodel"**, published in *IEEE Transactions on Vehicular Technology*, June 2025. (DOI: [10.1109/TVT.2025.3583158](https://doi.org/10.1109/TVT.2025.3583158)).
+This repository contains the source code for the simulation-optimization framework proposed in the paper **"A Simulation Optimization Framework for Traffic Signal Control Problem Using a DNN-based Metamodel"**, published in *IEEE Transactions on Vehicular Technology*, June 2025 (DOI: [10.1109/TVT.2025.3583158](https://doi.org/10.1109/TVT.2025.3583158)).
 
 The framework aims to address traffic congestion in modern cities by optimizing traffic signal control systems. Traditional simulation optimization approaches often face two significant challenges: designing a simulation environment and running the simulator during the optimization process. This framework overcomes these challenges by utilizing a deep neural network (DNN)-based metamodel to approximate the simulator's output.
 
